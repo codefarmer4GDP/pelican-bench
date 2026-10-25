@@ -1,0 +1,10 @@
+# pelican-bench 报告输出
+*.json
+report*.json
+benchmark*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
