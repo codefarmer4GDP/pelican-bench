@@ -140,4 +140,11 @@ pelican-bench 的测量思路源自公开脚本 [test-pelican.sh](https://github
 
 ---
 
+## 相关工具与选型指南
+
+- [AI API 选型指南与成本核算](https://github.com/codefarmer4GDP/awesome-ai-api-cn)：聚合中转、会员会话共享与官方 API 选型资料，含价格比较、使用限制与实测数据记录。
+- [在线双方案成本计算器](https://codefarmer4gdp.github.io/awesome-ai-api-cn/#calculator)：把不同端点的报价与用量带入同一任务量，对比缓存命中、充值附加费与真实调用成本。
+
+---
+
 由 [TokenDos](https://tokendos.com) 维护。本工具与 TokenDos 无绑定，可测任何 OpenAI 兼容端点。

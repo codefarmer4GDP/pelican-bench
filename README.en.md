@@ -64,4 +64,11 @@ Provided as-is under the MIT License (see [LICENSE](LICENSE)), without warranty 
 
 ---
 
+## Related Tools & Selection Guide
+
+- [AI API Selection Guide & Cost Calculator](https://github.com/codefarmer4GDP/awesome-ai-api-cn): Curated directory of aggregators, relays, member-session sharing, and official APIs with pricing comparisons, constraints, and evaluation templates.
+- [Online Two-Plan Cost Calculator](https://codefarmer4gdp.github.io/awesome-ai-api-cn/index.en.html#calculator): Compare estimated cash costs across two quotes for the same workload, factoring in prompt cache hit rates and top-up fees.
+
+---
+
 Maintained by [TokenDos](https://tokendos.com). This tool is not bound to TokenDos and can benchmark any OpenAI-compatible endpoint.
